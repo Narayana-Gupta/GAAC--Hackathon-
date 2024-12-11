@@ -37,9 +37,11 @@
 ## **Additional Questions**
 
 **What strengths do each of you bring to the team?**
-- Gupta:
+
+**Gupta:**
 - Positive Vibe and Programming support
-- Geetha:
+
+**Geetha:**
 - Content and Design
 
 **What tools, frameworks, or technologies are you planning to use?**
