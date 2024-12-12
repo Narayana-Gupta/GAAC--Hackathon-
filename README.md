@@ -18,15 +18,18 @@
 - Combines education with technology to create an unforgettable learning experience.
 
 # 3. Tech Stack
-- Chatbot Development: Botpress
+**Chatbot Development: Botpress**
 - Easy-to-use platform with no heavy coding required.
 - Integrates seamlessly into web applications.
-- Website Design: Figma
+
+**Website Design: Figma**
 - Enables precise and interactive UI/UX design.
 - Simplifies the transition from design to development.
-- AR Integration: 8th Wall
+  
+**AR Integration: 8th Wall**
 - WebAR-based solution for cross-device compatibility.
 - Provides real-time AR experiences directly through a browser.
+  
 **APIs Used:**
 - NASA API: Real-time space data (e.g., planetary positions, images, and astronomy facts).
 - Additional APIs: Open Notify (for astronauts in space) and AstroBin (for space imagery).
@@ -55,6 +58,7 @@
 **Deliverables:**
 - Fully functional chatbot capable of answering astronomy-related questions.
 - Integrated AR experience allowing users to visualize celestial objects.
+- 
 **Impact:**
 - Makes space education more engaging and accessible.
 - Encourages interest in astronomy and STEM fields.
