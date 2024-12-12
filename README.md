@@ -38,18 +38,23 @@
 **Phase 1: Planning and Research**
 - Finalize problem statement and identify required tools and APIs.
 - Research NASA API and Botpress capabilities.
+
 **Phase 2: Website Development**
 - Design website UI/UX in Figma.
 - Export Figma design into a working website layout.
+
 **Phase 3: Chatbot Development**
 - Create chatbot in Botpress with predefined conversational flows.
 - Train the chatbot with astronomy-related data using NASA API.
+
 **Phase 4: AR Integration**
 - Set up AR functionalities using 8th Wall.
 - Develop interactions to visualize celestial objects in AR.
+
 **Phase 5: Integration**
 - Embed chatbot and AR features into the website.
 - Test website, chatbot, and AR functionality together.
+
 **Phase 6: Testing and Deployment**
 - Conduct user testing to refine interactions.
 - Deploy website on a hosting platform like Netlify or Vercel.
@@ -64,10 +69,15 @@
 - Encourages interest in astronomy and STEM fields.
 - Provides a scalable platform for future educational tools.
 
-# 6. Challenges (Optional)
+# 6. Challenges 
 **Challenge:** Ensuring seamless integration of chatbot, AR, and website.
+
 **Solution:** Use standardized frameworks and perform rigorous testing.
+
 **Challenge**: Training the chatbot with relevant and accurate data.
+
 **Solution:** Leverage NASA API and other trusted sources for quality content.
+
 **Challenge:** Optimizing AR performance across different devices.
+
 **Solution:** Use WebAR technologies for better compatibility.
