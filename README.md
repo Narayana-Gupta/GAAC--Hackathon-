@@ -81,3 +81,6 @@
 **Challenge:** Optimizing AR performance across different devices.
 
 **Solution:** Use WebAR technologies for better compatibility.
+
+# Presentation File
+- Here is our canva file link: https://www.canva.com/design/DAGZEas9KqQ/ly0Hx-tR9wHQYoVsg9RWgw/edit?utm_content=DAGZEas9KqQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
