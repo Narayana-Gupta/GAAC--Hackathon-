@@ -10,6 +10,7 @@
 **Core Idea:**
 - Develop a chatbot that can answer astronomy-related questions, provide real-time data, and offer educational insights.
 - Integrate Augmented Reality (AR) to visualize celestial objects, making learning more immersive and engaging.
+
 **How It Addresses the Problem:**
 - Chatbot provides instant, user-friendly access to complex astronomical data.
 - AR helps users connect with space in a visually impactful way.
