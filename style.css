@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('./images/image1.jpg'); /* Replace with your image path */
+    background-image: url('./assets/image1.jpg'); 
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -12,6 +12,12 @@ body {
     color: white;
 }
 
+.logo{
+    width: 400px;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+}
 .container {
     text-align: center;
     background: rgba(94, 46, 46, 0.7);
@@ -22,19 +28,25 @@ body {
 }
 
 h1 {
-    font-size: 3 em;
+    font-size: 3em;
     font-weight: bold;
     margin-bottom: 20px;
     font-family: 'Orbitron', sans-serif;
 }
 
-
+.chat-window {
+    margin: 20px 0;
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    max-height: 400px;
+    overflow-y: auto;
+}
 
 .chat-input {
     display: flex;
     gap: 10px;
     margin-top: 20px;
-   
 }
 
 .chat-input input {
@@ -42,8 +54,7 @@ h1 {
     padding: 10px;
     border-radius: 5px;
     border: 1px solid #ccc;
-    font-size: 1 em;
-    font-style:unset;
+    font-size: 1em;
 }
 
 .chat-input button {
@@ -53,9 +64,9 @@ h1 {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    font-style:unset;
 }
 
 .chat-input button:hover {
     background-color: #4682b4;
 }
+
